@@ -26,7 +26,7 @@ A GPS-based Android game using Google Maps SDK where players could catch Pokémo
 ### 🌦️ WeatherApp
 A dynamic weather application that provided real-time updates using GPS or manual city search with a modern UI.
 
-[🔗 View Project](https://github.com/ABDOU-AHARCHA/OldNativeSmallProjectsAndPracticing/tree/main/Development/ALL%20Android%20Projects/Android/WeatherApp)
+[🔗 View Project](https://github.com/ABDOU-AHARCHA/Native_Android_Small_Projects_And_Practicing/tree/main/Development/ALL%20Android%20Projects/Android/WeatherApp2)
 
 ---
 
