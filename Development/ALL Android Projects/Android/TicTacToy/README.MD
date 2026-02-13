@@ -61,4 +61,4 @@ This project was developed as a practical exercise to:
 
 ### 👨‍💻 Author
 Abdelilah Aharcha  
-Android Developer (Java & Kotlin)
+Mobile Developer
