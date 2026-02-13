@@ -1,4 +1,4 @@
-# 📚 Native Android Projects & Practice
+# 📚 Native Android Mini Projects & Practice
 
 This repository contains small Android projects and exercises that I developed in the past during my learning journey in native Android development.
 
