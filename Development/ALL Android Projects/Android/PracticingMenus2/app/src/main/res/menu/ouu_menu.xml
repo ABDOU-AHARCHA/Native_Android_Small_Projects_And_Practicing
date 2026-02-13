@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item android:title="Setting" />
+        <item android:title="Profile" />
+        <item android:title="Main" />
+    </group>
+    <group >
+        <item android:title="Policy" />
+        <item android:title="Others" />
+    </group>
+</menu>
