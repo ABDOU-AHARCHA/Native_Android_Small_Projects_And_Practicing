@@ -1,0 +1,28 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "WeatherApp"
+include ':app'
+include ':testmodules'
+include ':app:module1'
+include ':module2'
+include ':app:module3'
+include ':module3'
+include ':module4'
+include ':module 5'
+include ':Library1'
+include ':Library2'
+include ':Library3'
+include ':Dynamicfeature1'
+include ':Nativelib1'
