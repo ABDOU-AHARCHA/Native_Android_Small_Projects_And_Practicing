@@ -1,8 +1,9 @@
 # 📚 Native Android Mini Projects & Practice
 
-This repository contains small Android projects and exercises that I developed in the past during my learning journey in native Android development.
+This repository contains small Android projects and exercises that I developed in the past as part of my learning journey in **Native Android Development**.
 
-These projects were created to practice fundamentals, APIs, UI design, and core Android concepts.
+⚠️ These mini projects were created strictly for learning and practice purposes.  
+They were not intended for production use or public release, but rather to strengthen my understanding of Android fundamentals and core development concepts.
 
 ---
 
@@ -47,12 +48,13 @@ A simple two-player Tic-Tac-Toe game built with Kotlin.
 
 These projects were developed to:
 
-- Practice native Android development  
+- Practice Native Android development  
 - Strengthen Kotlin & Java fundamentals  
 - Work with APIs and JSON parsing  
 - Implement SQLite databases  
 - Integrate Google Maps & Location services  
 - Improve UI design using XML  
+- Understand activity lifecycle and permissions handling  
 
 ---
 
