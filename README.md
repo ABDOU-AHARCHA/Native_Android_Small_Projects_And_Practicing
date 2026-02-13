@@ -8,38 +8,38 @@ These projects were created to practice fundamentals, APIs, UI design, and core 
 
 ## 📂 Included Mini Projects
 
-### ❌⭕ Tic-Tac-Toe  
-A simple two-player Tic-Tac-Toe game built with Kotlin.  
+### 💰 YourBudget (2021–2022)
+A personal finance management app with authentication, SQLite database, statistics, and dashboard visualization.
 
-🔗 View Project  
-
----
-
-### 🌅 CheckSunset (Weather App)  
-A weather application that fetched real-time wind speed data using the OpenWeatherMap API.  
-
-🔗 View Project  
+🔗 View Project
 
 ---
 
-### 🌦️ WeatherApp  
-A dynamic weather application that provided real-time updates using GPS or manual city search with a modern UI.  
+### 🗺️ Simple Pokemon Game
+A GPS-based Android game using Google Maps SDK where players could catch Pokémon based on location.
 
-🔗 View Project  
-
----
-
-### 🗺️ Simple Pokemon Game  
-A GPS-based Android game using Google Maps SDK where players could catch Pokémon based on location.  
-
-🔗 View Project  
+🔗 View Project
 
 ---
 
-### 💰 YourBudget  2021-2022
-A personal finance management app with authentication, SQLite database, statistics, and dashboard visualization.  
+### 🌦️ WeatherApp
+A dynamic weather application that provided real-time updates using GPS or manual city search with a modern UI.
 
-🔗 View Project  
+🔗 View Project
+
+---
+
+### 🌅 CheckSunset (Weather App)
+A weather application that fetched real-time wind speed data using the OpenWeatherMap API.
+
+🔗 View Project
+
+---
+
+### ❌⭕ Tic-Tac-Toe
+A simple two-player Tic-Tac-Toe game built with Kotlin.
+
+🔗 View Project
 
 ---
 
