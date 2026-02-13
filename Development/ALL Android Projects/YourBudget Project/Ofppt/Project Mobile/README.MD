@@ -1,90 +1,90 @@
-# 💰 YourBudget - Application de Gestion de Revenus et Dépenses (2021/2022)
+# 💰 YourBudget - Income & Expense Management Application (2021/2022)
 
-**YourBudget** est une application mobile Android conçue pour aider les utilisateurs à gérer leurs finances personnelles au quotidien.  
-Elle permet de suivre précisément les flux financiers (revenus et dépenses) à travers une interface intuitive et des outils de visualisation clairs.
-
----
-
-## 🚀 Fonctionnalités principales
-
-### ✅ Gestion des transactions
-- Ajout de revenus et dépenses  
-- Modification des transactions  
-- Suppression  
-- Consultation complète de l’historique  
-
-### 📊 Tableau de bord visuel
-- Diagramme circulaire interactif  
-- Mode normal ou mode pourcentage  
-- Affichage du total des revenus  
-- Affichage du total des dépenses  
-- Calcul automatique de la balance  
-
-### 📈 Statistiques détaillées
-- Montant maximum des transactions  
-- Montant minimum  
-- Historique complet des opérations  
-
-### 🔐 Système d'authentification
-- Inscription utilisateur  
-- Connexion sécurisée  
-- Récupération de mot de passe oublié  
-
-### 🗂️ Catégories personnalisées
-- Organisation des transactions par catégories  
-- Icônes spécifiques pour une meilleure lisibilité  
+**YourBudget** is an Android mobile application designed to help users manage their personal finances on a daily basis.  
+It allows users to accurately track financial flows (income and expenses) through an intuitive interface and clear data visualization tools.
 
 ---
 
-## 🛠️ Technologies utilisées
+## 🚀 Main Features
 
-- **Langage :** Java (Programmation Orientée Objet)  
-- **IDE :** Android Studio  
-- **Base de données :** SQLite  
-- **Interface utilisateur :** XML  
-- **Outil DB :** DB Browser for SQLite  
+### ✅ Transaction Management
+- Add income and expenses  
+- Edit transactions  
+- Delete transactions  
+- View complete transaction history  
 
----
+### 📊 Visual Dashboard
+- Interactive pie chart  
+- Normal mode or percentage mode  
+- Display total income  
+- Display total expenses  
+- Automatic balance calculation  
 
-## 📈 Méthodologie et Conception
+### 📈 Detailed Statistics
+- Maximum transaction amount  
+- Minimum transaction amount  
+- Full transaction history overview  
 
-Le projet a été développé selon une démarche structurée :
+### 🔐 Authentication System
+- User registration  
+- Secure login  
+- Password recovery  
 
-### 📅 Planification
-- Diagramme de GANTT  
-- Étude de faisabilité  
-- Conception  
-- Développement  
-- Tests  
-
-### 📊 Analyse
-- Cas d’Utilisation (Use Cases)  
-
-### 🗄️ Conception des données
-- Méthode MERISE  
-- MCD (Modèle Conceptuel des Données)  
-- MLD (Modèle Logique des Données)  
-
----
-
-## 🔮 Perspectives d'amélioration
-
-- Intégration de la gestion des devises internationales  
-- Ajout de statistiques par catégorie  
-- Gestion des abonnements (Spotify, Netflix, etc.)  
-- Publication sur le Google Play Store  
+### 🗂️ Custom Categories
+- Organize transactions by categories  
+- Category-specific icons for better readability  
 
 ---
 
-## 📄 Rapport du projet
+## 🛠️ Technologies Used
 
-Le rapport complet est disponible ici :
-
-[📘 Rapport de projet (PDF)](Development/ALL%20Android%20Projects/YourBudget%20Project/Ofppt/Project%20Mobile/Rapport%20de%20projet%2022.pdf)
+- **Language:** Java (Object-Oriented Programming)  
+- **IDE:** Android Studio  
+- **Database:** SQLite (local relational database)  
+- **User Interface:** XML  
+- **Database Tool:** DB Browser for SQLite  
 
 ---
 
-### 👨‍💻 Auteur
+## 📈 Methodology & Design
+
+The project was developed following a structured software development approach.
+
+### 📅 Planning
+- Gantt chart  
+- Feasibility study  
+- System design  
+- Development  
+- Testing  
+
+### 📊 Analysis
+- Use Case modeling  
+
+### 🗄️ Data Design
+- MERISE methodology  
+- MCD (Conceptual Data Model)  
+- MLD (Logical Data Model)  
+
+---
+
+## 🔮 Future Improvements
+
+- Integration of international currency management  
+- Category-based analytics and charts  
+- Subscription management (Spotify, Netflix, etc.)  
+- Publication on the Google Play Store  
+
+---
+
+## 📄 Project Report
+
+The full academic project report is available here:
+
+📘 Project Report (PDF)
+
+---
+
+## 👨‍💻 Author
+
 Abdelilah Aharcha  
-Technicien Spécialisé en Développement Informatique  
-Développeur Android (Java & Kotlin)
+Mobile Developer
